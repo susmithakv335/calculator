@@ -1,0 +1,86 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Domine&display=swap')  */
+
+
+
+body{  
+  width:800px;
+   height:500px;
+ 
+}
+  input[type=button] {  
+    width: 50px;  
+    height: 50px;  
+  }  
+  input[type=text]{
+      width:160px;
+      height: 38px;
+  }
+  h1{
+      text-align: center;
+  }
+  #c1{
+      background-color: red;
+     
+  }
+#c2{
+    background-color:cyan
+}
+#c3{
+    background-color:cyan
+}
+#c4{
+    background-color:cyan
+}
+#c5{
+    background-color:cyan
+}
+#c6{
+    background-color:cyan
+}
+#c7{
+    background-color:cyan
+}
+#c8{
+    background-color:cyan
+}
+#c9{
+    background-color:cyan
+}
+#c10{
+    background-color:cyan
+}
+#c11{
+    background-color:cyan
+}
+#c12{
+    background-color:cyan
+}
+#c13{
+    background-color:cyan
+}
+#c14{
+    background-color:cyan
+}
+#c15{
+    background-color:cyan
+}
+#c16{
+    background-color:cyan
+}#c17{
+    background-color:cyan
+}
+
+#c18{
+    background-color:cyan
+}
+
+#result{
+    background-color: rgb(255, 255, 255);
+}
+ h2{
+    font-family: 'Domine', serif; 
+    text-shadow: black;
+    margin-left: 25px;
+   
+} 
